@@ -1,0 +1,12 @@
+## YAML Template.
+---
+name: 001-say-hello
+main: at.coderdojo.linz.minecraft.episode001.HelloMePlugin
+version: 0.1.0
+authors:
+  - Elisabeth Rosemann
+description: A plugin saying hello to the user
+commands:
+  sayhello:
+    description: Says hello.
+    usage: /sayhello

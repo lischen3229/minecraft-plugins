@@ -1,0 +1,12 @@
+## YAML Template.
+---
+name: 003-explosions-executor
+main: at.coderdojo.linz.minecraft.episode003.ExplosionsPlugin
+version: 0.1.0
+authors:
+  - Elisabeth Rosemann
+description: A plugin that creates an explosion three locations away from you.
+commands:
+  fire:
+    description: Creates an explosion.
+    usage: /fire

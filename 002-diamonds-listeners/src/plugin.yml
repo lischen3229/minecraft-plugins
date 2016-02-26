@@ -1,0 +1,8 @@
+## YAML Template.
+---
+name: 002-diamonds-listeners
+main: at.coderdojo.linz.minecraft.episode002.DiamondsPlugin
+version: 0.1.0
+authors:
+  - Elisabeth Rosemann
+description: A plugin around listeners. Gives diamonds to new users, gives you unlimited health, and places randomly diamond blocks.
