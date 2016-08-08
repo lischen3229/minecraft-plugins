@@ -1,0 +1,12 @@
+## YAML Template.
+---
+name: 004-creature-spawner
+main: at.coderdojo.linz.minecraft.episode004.SpawnPlugin
+version: 0.1.0
+authors:
+  - Elisabeth Rosemann
+description: A plugin which spawns a squid when called.
+commands:
+  spawn:
+    description: Spawns a squid at a random location around the current player (the caller).
+    usage: /spawn
