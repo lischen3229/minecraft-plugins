@@ -24,7 +24,7 @@ public class SpawnPlugin extends JavaPlugin
     @Override
     public void onEnable()
     {
-        getLogger().info("Spwan Plugin (004-creature-spawner) enabled.");
+        getLogger().info("Spawn Plugin (004-creature-spawner) enabled.");
     }
 
     @Override

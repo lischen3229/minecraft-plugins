@@ -1,0 +1,8 @@
+## YAML Template.
+---
+name: 005-log-users
+main: at.coderdojo.linz.minecraft.episode005.LogUsersPlugin
+version: 0.1.0
+authors:
+  - Elisabeth Rosemann
+description: A plugin which logs the users which log in into a file.
